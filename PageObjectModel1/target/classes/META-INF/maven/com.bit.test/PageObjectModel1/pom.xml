@@ -1,0 +1,53 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.bit.test</groupId>
+  <artifactId>PageObjectModel1</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+
+  <!-- <profiles>
+  <profile>
+  <id>
+  test
+  </id>
+  <properties>
+    <webdriver.chrome>/Users/bittech/Desktop/jar/chromedriver</webdriver.chrome>
+</properties></profile>
+  </profiles>
+  
+  <build>
+  <plugins>
+	<plugin>
+    <artifactId>maven-surefire-plugin</artifactId>
+    <version>2.7.1</version>
+    <configuration>
+        <systemPropertyVariables>
+            <webdriver.chrome.driver>${webdriver.chrome}</webdriver.chrome.driver>
+        </systemPropertyVariables>
+    </configuration>
+</plugin>
+</plugins>
+</build> -->
+  <dependencies>
+  <dependency>
+	<groupId>org.seleniumhq.selenium</groupId>
+	<artifactId>selenium-server</artifactId>
+	<version>2.52.0</version>
+	</dependency>
+	
+  <dependency>
+  	<groupId>junit</groupId>
+  	<artifactId>junit</artifactId>
+  	<version>4.12</version>
+  </dependency>
+  <dependency>
+  	<groupId>log4j</groupId>
+  	<artifactId>log4j</artifactId>
+  	<version>1.2.12</version>
+  </dependency>
+  </dependencies>
+ 
+
+  
+
+</project>
