@@ -26,6 +26,7 @@ public class BaseTest
 		String s = System.getProperty("ami");
 		if(s.equals("FireBug"))
 		{
+			System.out.println("hi");
 			dr = new FirefoxDriver();
 			FileInputStream f=new FileInputStream("config.properties");
 			Properties p=new Properties();
