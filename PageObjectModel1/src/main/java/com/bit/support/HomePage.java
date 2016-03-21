@@ -25,5 +25,9 @@ public class HomePage
 		menLink.click();
 		return new MenPage(dr);
 	}
+	public void tansenahmed()
+	{
+		System.out.println("TansenAhmed");
+	}
 
 }
