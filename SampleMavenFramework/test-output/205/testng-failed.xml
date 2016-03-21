@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [205]">
+  <test name="moga">
+    <classes>
+      <class name="com.bit.test.SmokeTest"/>
+    </classes>
+  </test> <!-- moga -->
+  <test name="moga(failed)">
+    <classes>
+      <class name="com.bit.test.SmokeTest">
+        <methods>
+          <include name="end"/>
+          <include name="start"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- com.bit.test.SmokeTest -->
+    </classes>
+  </test> <!-- moga(failed) -->
+</suite> <!-- Failed suite [205] -->

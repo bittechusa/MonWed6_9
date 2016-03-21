@@ -1,0 +1,29 @@
+2016-03-21 18:12:34,510 INFO  [BaseTest] file initialized 
+2016-03-21 18:12:39,345 INFO  [BaseTest] url initialized 
+2016-03-21 18:12:39,348 INFO  [SmokeTest] test1 started 
+2016-03-21 18:12:39,906 INFO  [BaseTest] failed 
+2016-03-21 18:12:39,988 INFO  [BaseTest] browser quit 
+2016-03-21 18:13:04,000 INFO  [BaseTest] file initialized 
+2016-03-21 18:13:07,707 INFO  [BaseTest] url initialized 
+2016-03-21 18:13:07,711 INFO  [SmokeTest] test1 started 
+2016-03-21 18:13:07,849 INFO  [BaseTest] failed 
+2016-03-21 18:13:07,930 INFO  [BaseTest] browser quit 
+2016-03-21 18:27:00,095 INFO  [BaseTest] file initialized 
+2016-03-21 18:27:07,363 INFO  [BaseTest] url initialized 
+2016-03-21 18:27:07,367 INFO  [SmokeTest] test1 started 
+2016-03-21 18:27:11,639 INFO  [BaseTest] browser quit 
+2016-03-21 18:31:58,960 INFO  [BaseTest] file initialized 
+2016-03-21 18:32:05,255 INFO  [BaseTest] url initialized 
+2016-03-21 18:32:05,258 INFO  [SmokeTest] test1 started 
+2016-03-21 18:32:05,397 INFO  [BaseTest] Test Method resides in com.bit.test.SmokeTest 
+2016-03-21 18:32:10,932 INFO  [BaseTest] browser quit 
+2016-03-21 18:35:36,132 INFO  [BaseTest] file initialized 
+2016-03-21 18:35:43,384 INFO  [BaseTest] url initialized 
+2016-03-21 18:35:43,387 INFO  [SmokeTest] test1 started 
+2016-03-21 18:35:43,599 INFO  [BaseTest] Test Method resides in com.bit.test.SmokeTest ,null 
+2016-03-21 18:35:49,230 INFO  [BaseTest] browser quit 
+2016-03-21 18:36:39,225 INFO  [BaseTest] file initialized 
+2016-03-21 18:36:43,607 INFO  [BaseTest] url initialized 
+2016-03-21 18:36:43,610 INFO  [SmokeTest] test1 started 
+2016-03-21 18:36:43,863 INFO  [BaseTest] Test Method resides in com.bit.test.SmokeTest ,SmokeTest.test1()[pri:0, instance:com.bit.test.SmokeTest@96532d6] 
+2016-03-21 18:36:50,144 INFO  [BaseTest] browser quit 
